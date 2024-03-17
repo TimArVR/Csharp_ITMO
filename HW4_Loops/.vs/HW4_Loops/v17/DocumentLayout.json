@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos_C#\\ITMO_CSharp_Learning\\HW4_Loops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24159275-423C-493E-A5AE-1910DB11C17B}|LoopWhile\\LoopWhile.csproj|d:\\repos_c#\\itmo_csharp_learning\\hw4_loops\\loopwhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24159275-423C-493E-A5AE-1910DB11C17B}|LoopWhile\\LoopWhile.csproj|solutionrelative:loopwhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD9F4B3-4AD1-4391-9687-C59D7A7B20A8}|LoopDoWhile\\LoopDoWhile.csproj|d:\\repos_c#\\itmo_csharp_learning\\hw4_loops\\loopdowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD9F4B3-4AD1-4391-9687-C59D7A7B20A8}|LoopDoWhile\\LoopDoWhile.csproj|solutionrelative:loopdowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDF24E6-E8D8-4038-8E84-E88D96E71E01}|LoopFor\\LoopFor.csproj|d:\\repos_c#\\itmo_csharp_learning\\hw4_loops\\loopfor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDF24E6-E8D8-4038-8E84-E88D96E71E01}|LoopFor\\LoopFor.csproj|solutionrelative:loopfor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos_C#\\ITMO_CSharp_Learning\\HW4_Loops\\LoopWhile\\Program.cs",
+              "RelativeDocumentMoniker": "LoopWhile\\Program.cs",
+              "ToolTip": "D:\\repos_C#\\ITMO_CSharp_Learning\\HW4_Loops\\LoopWhile\\Program.cs",
+              "RelativeToolTip": "LoopWhile\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T18:47:02.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos_C#\\ITMO_CSharp_Learning\\HW4_Loops\\LoopDoWhile\\Program.cs",
+              "RelativeDocumentMoniker": "LoopDoWhile\\Program.cs",
+              "ToolTip": "D:\\repos_C#\\ITMO_CSharp_Learning\\HW4_Loops\\LoopDoWhile\\Program.cs",
+              "RelativeToolTip": "LoopDoWhile\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T17:44:03.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos_C#\\ITMO_CSharp_Learning\\HW4_Loops\\LoopFor\\Program.cs",
+              "RelativeDocumentMoniker": "LoopFor\\Program.cs",
+              "ToolTip": "D:\\repos_C#\\ITMO_CSharp_Learning\\HW4_Loops\\LoopFor\\Program.cs",
+              "RelativeToolTip": "LoopFor\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T17:22:40.995Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 72,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopWhile\bin\Debug\net8.0\LoopWhile.exe
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopWhile\bin\Debug\net8.0\LoopWhile.deps.json
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopWhile\bin\Debug\net8.0\LoopWhile.runtimeconfig.json
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopWhile\bin\Debug\net8.0\LoopWhile.dll
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopWhile\bin\Debug\net8.0\LoopWhile.pdb
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopWhile\obj\Debug\net8.0\LoopWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopWhile\obj\Debug\net8.0\LoopWhile.AssemblyInfoInputs.cache
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopWhile\obj\Debug\net8.0\LoopWhile.AssemblyInfo.cs
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopWhile\obj\Debug\net8.0\LoopWhile.csproj.CoreCompileInputs.cache
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopWhile\obj\Debug\net8.0\LoopWhile.dll
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopWhile\obj\Debug\net8.0\refint\LoopWhile.dll
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopWhile\obj\Debug\net8.0\LoopWhile.pdb
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopWhile\obj\Debug\net8.0\LoopWhile.genruntimeconfig.cache
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopWhile\obj\Debug\net8.0\ref\LoopWhile.dll

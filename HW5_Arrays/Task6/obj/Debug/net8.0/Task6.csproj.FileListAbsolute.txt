@@ -1,0 +1,14 @@
+D:\repos_C#\ITMO_CSharp_Learning\HW5_Arrays\Task6\bin\Debug\net8.0\Task6.exe
+D:\repos_C#\ITMO_CSharp_Learning\HW5_Arrays\Task6\bin\Debug\net8.0\Task6.deps.json
+D:\repos_C#\ITMO_CSharp_Learning\HW5_Arrays\Task6\bin\Debug\net8.0\Task6.runtimeconfig.json
+D:\repos_C#\ITMO_CSharp_Learning\HW5_Arrays\Task6\bin\Debug\net8.0\Task6.dll
+D:\repos_C#\ITMO_CSharp_Learning\HW5_Arrays\Task6\bin\Debug\net8.0\Task6.pdb
+D:\repos_C#\ITMO_CSharp_Learning\HW5_Arrays\Task6\obj\Debug\net8.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos_C#\ITMO_CSharp_Learning\HW5_Arrays\Task6\obj\Debug\net8.0\Task6.AssemblyInfoInputs.cache
+D:\repos_C#\ITMO_CSharp_Learning\HW5_Arrays\Task6\obj\Debug\net8.0\Task6.AssemblyInfo.cs
+D:\repos_C#\ITMO_CSharp_Learning\HW5_Arrays\Task6\obj\Debug\net8.0\Task6.csproj.CoreCompileInputs.cache
+D:\repos_C#\ITMO_CSharp_Learning\HW5_Arrays\Task6\obj\Debug\net8.0\Task6.dll
+D:\repos_C#\ITMO_CSharp_Learning\HW5_Arrays\Task6\obj\Debug\net8.0\refint\Task6.dll
+D:\repos_C#\ITMO_CSharp_Learning\HW5_Arrays\Task6\obj\Debug\net8.0\Task6.pdb
+D:\repos_C#\ITMO_CSharp_Learning\HW5_Arrays\Task6\obj\Debug\net8.0\Task6.genruntimeconfig.cache
+D:\repos_C#\ITMO_CSharp_Learning\HW5_Arrays\Task6\obj\Debug\net8.0\ref\Task6.dll

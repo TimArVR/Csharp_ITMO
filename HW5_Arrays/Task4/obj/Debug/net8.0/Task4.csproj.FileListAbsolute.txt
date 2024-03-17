@@ -1,0 +1,14 @@
+D:\repos_C#\ITMO_CSharp_Learning\HW5_Arrays\Task4\bin\Debug\net8.0\Task4.exe
+D:\repos_C#\ITMO_CSharp_Learning\HW5_Arrays\Task4\bin\Debug\net8.0\Task4.deps.json
+D:\repos_C#\ITMO_CSharp_Learning\HW5_Arrays\Task4\bin\Debug\net8.0\Task4.runtimeconfig.json
+D:\repos_C#\ITMO_CSharp_Learning\HW5_Arrays\Task4\bin\Debug\net8.0\Task4.dll
+D:\repos_C#\ITMO_CSharp_Learning\HW5_Arrays\Task4\bin\Debug\net8.0\Task4.pdb
+D:\repos_C#\ITMO_CSharp_Learning\HW5_Arrays\Task4\obj\Debug\net8.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos_C#\ITMO_CSharp_Learning\HW5_Arrays\Task4\obj\Debug\net8.0\Task4.AssemblyInfoInputs.cache
+D:\repos_C#\ITMO_CSharp_Learning\HW5_Arrays\Task4\obj\Debug\net8.0\Task4.AssemblyInfo.cs
+D:\repos_C#\ITMO_CSharp_Learning\HW5_Arrays\Task4\obj\Debug\net8.0\Task4.csproj.CoreCompileInputs.cache
+D:\repos_C#\ITMO_CSharp_Learning\HW5_Arrays\Task4\obj\Debug\net8.0\Task4.dll
+D:\repos_C#\ITMO_CSharp_Learning\HW5_Arrays\Task4\obj\Debug\net8.0\refint\Task4.dll
+D:\repos_C#\ITMO_CSharp_Learning\HW5_Arrays\Task4\obj\Debug\net8.0\Task4.pdb
+D:\repos_C#\ITMO_CSharp_Learning\HW5_Arrays\Task4\obj\Debug\net8.0\Task4.genruntimeconfig.cache
+D:\repos_C#\ITMO_CSharp_Learning\HW5_Arrays\Task4\obj\Debug\net8.0\ref\Task4.dll

@@ -1,0 +1,14 @@
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopDoWhile\obj\Debug\net8.0\LoopDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopDoWhile\obj\Debug\net8.0\LoopDoWhile.AssemblyInfoInputs.cache
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopDoWhile\obj\Debug\net8.0\LoopDoWhile.AssemblyInfo.cs
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopDoWhile\obj\Debug\net8.0\LoopDoWhile.csproj.CoreCompileInputs.cache
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopDoWhile\bin\Debug\net8.0\LoopDoWhile.exe
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopDoWhile\bin\Debug\net8.0\LoopDoWhile.deps.json
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopDoWhile\bin\Debug\net8.0\LoopDoWhile.runtimeconfig.json
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopDoWhile\bin\Debug\net8.0\LoopDoWhile.dll
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopDoWhile\bin\Debug\net8.0\LoopDoWhile.pdb
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopDoWhile\obj\Debug\net8.0\LoopDoWhile.dll
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopDoWhile\obj\Debug\net8.0\refint\LoopDoWhile.dll
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopDoWhile\obj\Debug\net8.0\LoopDoWhile.pdb
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopDoWhile\obj\Debug\net8.0\LoopDoWhile.genruntimeconfig.cache
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopDoWhile\obj\Debug\net8.0\ref\LoopDoWhile.dll

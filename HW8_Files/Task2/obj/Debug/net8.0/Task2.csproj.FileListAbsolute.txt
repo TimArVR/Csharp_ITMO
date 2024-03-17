@@ -1,0 +1,14 @@
+D:\repos_C#\ITMO_CSharp_Learning\HW8_Files\Task2\bin\Debug\net8.0\Task2.exe
+D:\repos_C#\ITMO_CSharp_Learning\HW8_Files\Task2\bin\Debug\net8.0\Task2.deps.json
+D:\repos_C#\ITMO_CSharp_Learning\HW8_Files\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+D:\repos_C#\ITMO_CSharp_Learning\HW8_Files\Task2\bin\Debug\net8.0\Task2.dll
+D:\repos_C#\ITMO_CSharp_Learning\HW8_Files\Task2\bin\Debug\net8.0\Task2.pdb
+D:\repos_C#\ITMO_CSharp_Learning\HW8_Files\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos_C#\ITMO_CSharp_Learning\HW8_Files\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+D:\repos_C#\ITMO_CSharp_Learning\HW8_Files\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+D:\repos_C#\ITMO_CSharp_Learning\HW8_Files\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+D:\repos_C#\ITMO_CSharp_Learning\HW8_Files\Task2\obj\Debug\net8.0\Task2.dll
+D:\repos_C#\ITMO_CSharp_Learning\HW8_Files\Task2\obj\Debug\net8.0\refint\Task2.dll
+D:\repos_C#\ITMO_CSharp_Learning\HW8_Files\Task2\obj\Debug\net8.0\Task2.pdb
+D:\repos_C#\ITMO_CSharp_Learning\HW8_Files\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+D:\repos_C#\ITMO_CSharp_Learning\HW8_Files\Task2\obj\Debug\net8.0\ref\Task2.dll

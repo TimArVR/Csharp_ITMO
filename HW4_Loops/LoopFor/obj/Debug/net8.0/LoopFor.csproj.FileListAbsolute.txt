@@ -1,0 +1,14 @@
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopFor\bin\Debug\net8.0\LoopFor.exe
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopFor\bin\Debug\net8.0\LoopFor.deps.json
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopFor\bin\Debug\net8.0\LoopFor.runtimeconfig.json
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopFor\bin\Debug\net8.0\LoopFor.dll
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopFor\bin\Debug\net8.0\LoopFor.pdb
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopFor\obj\Debug\net8.0\LoopFor.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopFor\obj\Debug\net8.0\LoopFor.AssemblyInfoInputs.cache
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopFor\obj\Debug\net8.0\LoopFor.AssemblyInfo.cs
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopFor\obj\Debug\net8.0\LoopFor.csproj.CoreCompileInputs.cache
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopFor\obj\Debug\net8.0\LoopFor.dll
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopFor\obj\Debug\net8.0\refint\LoopFor.dll
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopFor\obj\Debug\net8.0\LoopFor.pdb
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopFor\obj\Debug\net8.0\LoopFor.genruntimeconfig.cache
+D:\repos_C#\ITMO_CSharp_Learning\HW4_Loops\LoopFor\obj\Debug\net8.0\ref\LoopFor.dll
